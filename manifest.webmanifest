@@ -1,15 +1,15 @@
 {
-  "name": "Re:Me 사주 심리 놀이터",
+  "name": "Re:Me - 사주명리학 기반 심리 보고서",
   "short_name": "Re:Me",
   "description": "사주명리학 기반 심리 보고서, 재미와 웃음을 위한 서비스!",
-  "start_url": "/",
+  "start_url": "https://ahgnodmik.github.io/sawinmylife/",
   "display": "standalone",
-  "background_color": "#f8fafc",
-  "theme_color": "#5F7FFF",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
   "icons": [
     {
       "src": "/favicon.ico",
-      "sizes": "48x48 64x64 96x96 128x128 256x256",
+      "sizes": "any",
       "type": "image/x-icon"
     }
   ]
